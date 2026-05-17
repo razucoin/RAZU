@@ -1,4 +1,3 @@
 # RAZU
 #RAZUcoin
-#RAZUsports
 Logo
